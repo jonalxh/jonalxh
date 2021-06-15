@@ -14,11 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jonalxh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jonalxh" height="30" width="40" /></a>
-<a href="https://twitter.com/jonalxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonalxh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonathan-arias-347542199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonathan Arias" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7080573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7080573" height="30" width="40" /></a>
-<a href="https://fb.com/jonalxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonalxh" height="30" width="40" /></a>
-<a href="https://instagram.com/alex_arss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_arss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
