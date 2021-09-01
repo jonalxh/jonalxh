@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonalxh" alt="jonalxh" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, React, Python, French language and whatever thing that looks interesting for me.**
+- 🌱 I’m currently learning **Vue, React, React Native, Flutter, Python, French language and whatever thing that looks interesting for me.**
 
-- 👯 I’m looking to collaborate on **interesting and challenging frontend projects.**
+- 👯 I’m looking to collaborate on **interesting and challenging projects.**
 
 - 💬 Ask me about **JS, Vue, Flask, Boostrap, Firebase and Linux.**
 
