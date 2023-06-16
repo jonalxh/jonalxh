@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonalxh" alt="jonalxh" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, React, React Native, Python, French language and whatever thing that looks interesting for me.**
+- 🌱 My current stack is **JS, Vue, Nuxt, Quasar, Python, Django, Flask, Firebase.**
+  
+- 🌱 I’m currently learning **React, React Native, French language and whatever thing that looks interesting to me.**
 
 - 👯 I’m looking to collaborate on **interesting and challenging projects.**
 
